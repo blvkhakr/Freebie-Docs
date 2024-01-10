@@ -1,1 +1,1 @@
-S
+The objective of this assessment is to ensure the security of a web application, including features within an application, the hosting server, and the associated data, preventing any potential misuse by malicious actors. It's crucial to emphasize that [insert company] must host the application to conduct a comprehensive assessment. The assessment scope is limited to what [org] has the rights to evaluate if the app, site, or feature is hosted by a third party.
